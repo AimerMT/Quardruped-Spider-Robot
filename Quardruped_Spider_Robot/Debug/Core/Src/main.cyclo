@@ -1,0 +1,14 @@
+../Core/Src/main.c:193:6:PCA9685_SetBit	2
+../Core/Src/main.c:204:6:PCA9685_SetPWMFrequency	3
+../Core/Src/main.c:218:6:PCA9685_Init	1
+../Core/Src/main.c:224:6:PCA9685_SetPWM	1
+../Core/Src/main.c:237:6:PCA9685_SetServoAngle	1
+../Core/Src/main.c:247:6:init_gait	1
+../Core/Src/main.c:268:6:test	1
+../Core/Src/main.c:289:6:moveRobotStraight	8
+../Core/Src/main.c:340:6:bouncing	1
+../Core/Src/main.c:367:5:main	1
+../Core/Src/main.c:422:6:SystemClock_Config	3
+../Core/Src/main.c:459:13:MX_I2C1_Init	2
+../Core/Src/main.c:493:13:MX_GPIO_Init	1
+../Core/Src/main.c:514:6:Error_Handler	1
